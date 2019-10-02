@@ -1,0 +1,6 @@
+
+Fig 1
+Epochs-200 sigmoid
+
+Fig 2
+Epochs 300 tanh
